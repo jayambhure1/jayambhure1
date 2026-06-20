@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Dhananjay Ambhure  
 
-
-
-## 🚀 Professional Summary
-Full Stack Developer with 6+ years of experience architecting and delivering scalable enterprise solutions using **Drupal (7, 8, 10)**, **Contentful**, **WordPress**, and **headless CMS architectures**. Specialized in **custom module/plugin/app development**, **API integrations (REST/GraphQL)**, **multilingual workflows**, **WCAG accessibility**, and **CI/CD pipelines**. 🏆 Recognized with the **Accenture ACE Extra Mile Award** for high-impact CMS delivery.  
+I'm Full Stack Developer with 6+ years of experience architecting and delivering scalable enterprise solutions using **Drupal (7, 8, 10)**, **Contentful**, **WordPress**, and **headless CMS architectures**. Specialized in **custom module/plugin/app development**, **API integrations (REST/GraphQL)**, **multilingual workflows**, **WCAG accessibility**, and **CI/CD pipelines**. 🏆 Recognized with the **Accenture ACE Extra Mile Award** for high-impact CMS delivery.  
 
 ---
 
